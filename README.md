@@ -4,7 +4,7 @@ In this repository I suggest the algorithmic trading strategy using Simple Movin
 ## Results
 
 
-* Baseline model built using SVM classification tools
+* Baseline model that is built using SVM classification tools
 
 ![The baseline model performance with SVC](Images/Screen_Shot_0.png)
 
@@ -13,7 +13,7 @@ In this repository I suggest the algorithmic trading strategy using Simple Movin
 ![](Images/Screen_Shot_20.png)
 
 
-* The DecisionTreeClassifier model classification report with the same parameters
+* This is the DecisionTreeClassifier model classification report with the same parameters
 
 ![](Images/Screen_Shot_3.png)
 
@@ -59,6 +59,7 @@ To use the "Algorithmic_tradinng_using_ML" clone the repository, open it with Ju
 ## Contributor
 
 Nara Arakelyan
+n_arakel@yahoo.com
 
 ---
 
