@@ -1,3 +1,5 @@
+![](Images/14_image.png)
+
 # Algorithmic_tradinng_using_ML
 In this repository I suggest the algorithmic trading strategy using Simple Moving Averages (SMA). Then I will train ML models wich will try to predict signals to buy or sell and compare the performance of different models.     
 
